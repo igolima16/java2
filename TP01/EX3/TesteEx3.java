@@ -1,4 +1,4 @@
-public class TestSystem {
+public class TesteEx3 {
     public static void main(String[] args) {
         Student student = new Student("João", "Rua A, 123", "Análise de Sistemas", 2026, 500.0);
         Staff staff = new Staff("Maria", "Av B, 456", "IFSP", 3500.0);
