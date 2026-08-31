@@ -1,4 +1,4 @@
-public class TestBook {
+public class TesteBook {
     public static void main(String[] args) {
         Author[] authors = new Author[2];
         authors[0] = new Author("Autor 01", "autor01@somewhere.com.br", 'm');
